@@ -1,16 +1,16 @@
 # apex-legends-cfg
 
 #### mod_config
-Custom config file
+Custom config file.
 ***
 #### mod_keybind
-Custom keybind file
+Custom keybind file.
 ***
 #### mod_optimize_X
-Custom optimized settings file
+Custom variable optimization settings file. The level of optimization increases with each number.
 ***
 #### mod_optimize_X_reset
-Custom reset settings file
+Custom variable reset settings file. The level of reset increases with each number.
 ***
 #### Installation
 Put the following files on *Apex\cfg*
