@@ -34,6 +34,7 @@ Validate the game files.
 - https://gist.github.com/diablo/19fd72075622f734db5627db2baa3f4c
 - https://gist.github.com/M-Porter/aa8bbbc4e28bffdceb11c5e4a98ff745
 - https://github.com/240hz/ApexConfigs/blob/master/settings.cfg
+- https://github.com/deaFPS/apex/blob/master/autoexec.cfg
 - https://github.com/ekdms95/ApexDumps/blob/master/1006.md
 - https://github.com/Gevorian/Apex-Legends/blob/master/Autoexec
 - https://github.com/Gevorian/Apex-Legends/blob/master/Master-CVARS
