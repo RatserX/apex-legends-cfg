@@ -23,6 +23,7 @@ Put the following files on *%Apex%\cfg*:
 ***
 #### Uninstallation
 Remove the files on *%Apex%\cfg* and *%UserProfile%\Saved Games\Respawn\Apex\local*.
+
 Validate the game files.
 ***
 #### References
