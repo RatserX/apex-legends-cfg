@@ -2,8 +2,10 @@
 
 #### mod_addon_action
 Addon that contains different actions (testing).
+***
 #### mod_addon_configuration
 Addon that contains several personal settings.
+***
 #### mod_addon_decal
 Addon that reloads the decals (testing).
 ***
@@ -16,7 +18,7 @@ Addon that contains different movement altering settings (testing).
 #### mod_mouse_lX
 Mouse settings. Level 0 (l0) restores the default settings.
 ***
-#### mod_optimize_X
+#### mod_optimize_sX
 Optimization settings. Sequence 0 (s0) restores the default settings.
 ***
 #### Installation
