@@ -1,25 +1,29 @@
 # apex-legends-cfg
 
-#### mod_config
-Configuration file with several personal settings.
+#### mod_addon_action
+Addon that contains different actions (testing).
+#### mod_addon_configuration
+Addon that contains several personal settings.
+#### mod_addon_decal
+Addon that reloads the decals (testing).
 ***
-#### mod_keybind
-Keybind file with several input modification settings.
+#### mod_addon_menu
+Addon that contains different menu altering settings (testing).
+***
+#### mod_addon_movement
+Addon that contains different movement altering settings (testing).
+***
+#### mod_mouse_lX
+Mouse settings. Level 0 (l0) restores the default settings.
 ***
 #### mod_optimize_X
-Optimization files ordered by level of optimization.
-***
-#### mod_optimize_X_reset
-Optimization reset file ordered by level of optimization.
+Optimization settings. Sequence 0 (s0) restores the default settings.
 ***
 #### Installation
 Put the following files on *%Apex%\cfg*:
 
     - autoexec.cfg
-    - mod_config.cfg
-    - mod_keybind.cfg
-    - mod_optimize_X.cfg
-    - mod_optimize_X_reset.cfg
+    - mod/
 ***
 #### Uninstallation
 Remove the files on *%Apex%\cfg* and *%UserProfile%\Saved Games\Respawn\Apex\local*.
