@@ -34,7 +34,7 @@ Validate the game files.
 ***
 #### Observations
 - Apparently convars with flags 0x1000000, 0x40000000 are usable.
-- Only convars with flags 0x4000 (including 0x40000000?) are EAC bannable.
+- Only convars with flags 0x4000 (including the ones starting with 0x4000?) are EAC bannable.
 ***
 #### References
 - https://games-world.info/apex/apex-legends-maximum-fps-less-crashing-disable-muzzle-flash-remove-player-banners-more/
