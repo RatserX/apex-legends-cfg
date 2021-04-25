@@ -32,6 +32,10 @@ Remove the files on *%Apex%\cfg* and *%UserProfile%\Saved Games\Respawn\Apex\loc
 
 Validate the game files.
 ***
+#### Observations
+- Apparently convars with flags 0x1000000, 0x40000000 are usable.
+- Only convars with flags 0x4000 (including 0x40000000?) are EAC bannable.
+***
 #### References
 - https://games-world.info/apex/apex-legends-maximum-fps-less-crashing-disable-muzzle-flash-remove-player-banners-more/
 - https://gist.github.com/andreivreja/102428e0b3676cee1ffe828b800c5280
@@ -48,6 +52,7 @@ Validate the game files.
 - https://github.com/kALLEBALIK/Apex-config/blob/master/autoexec.cfg
 - https://github.com/NotTsunami/ApexConfig/blob/master/autoexec.cfg
 - https://pastebin.com/3DSCK09f
+- https://pastebin.com/CwarcedP
 - https://raw.githubusercontent.com/diablo/ApexLegendsResearch/master/Cvars/stdout.txt
 - https://www.unknowncheats.me/forum/apex-legends/322023-increase-fps-apex-legend-minecraft-crash-fix.html
 - https://www.unknowncheats.me/forum/apex-legends/324084-dump-list-commands-ida.html
