@@ -22,15 +22,13 @@ Mouse settings. Level 0 (l0) restores the default settings.
 Optimization settings. Sequence 0 (s0) restores the default settings.
 ***
 #### Installation
-Put the following files on *%Apex%\cfg*:
-
+- Put the following files and folders on *%ApexLegendsLocation%\cfg*:
     - autoexec.cfg
     - mod/
 ***
 #### Uninstallation
-Remove the files on *%Apex%\cfg* and *%UserProfile%\Saved Games\Respawn\Apex\local*.
-
-Validate the game files.
+- Remove the files and folders on both *%ApexLegendsLocation%\cfg* and *%UserProfile%\Saved Games\Respawn\Apex\local*.
+- Validate the game files.
 ***
 #### Observations
 - Apparently convars with flags 0x1000000, 0x40000000 are usable.
